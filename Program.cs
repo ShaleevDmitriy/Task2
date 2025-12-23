@@ -9,3 +9,4 @@ Console.WriteLine("Исходный список: " + string.Join(", ", numbers)
 var sortedDesc = numbers.OrderByDescending(n => n).ToList();
 
 Console.WriteLine("Отсортировано по убыванию: " + string.Join(", ", sortedDesc));
+//123
